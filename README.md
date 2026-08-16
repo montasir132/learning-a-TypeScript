@@ -1,5 +1,19 @@
 # learning-a-TypeScript
 
+...
+# must know types in TypeScript
+1. variable --> string, boolean, number
+2. array -- > string[], number [], boolean[], any[] & tuple
+3. function --> parameter type, return ( void, type, any ) 
+4. object  
+5. union, null, unknown, never, as
+6. type alias
+7. interface
+8. generics
+9. assertion
+10. enums
+...
+
 # interview-questions
 
 null vs undefined
