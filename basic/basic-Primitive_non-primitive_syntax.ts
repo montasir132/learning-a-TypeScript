@@ -1,10 +1,10 @@
-let useName: string = "Hello World!";
+let userName: string = "Hello World!";
 userName = "rah"
 userName = 'dgf'
 console.log(userName);
 //variable
 const studentRoll: number = 246471;
-console.log(studentsRoll);
+console.log(studentRoll);
 
 // array
 let arr:number[] = [10,20,30,40,50]
