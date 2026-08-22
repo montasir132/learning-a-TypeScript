@@ -1,6 +1,5 @@
 # learning-a-TypeScript
 
-...
 # must know types in TypeScript
 1. variable --> string, boolean, number
 2. array -- > string[], number [], boolean[], any[] & tuple
@@ -12,7 +11,6 @@
 8. generics
 9. assertion
 10. enums
-...
 
 # interview-questions
 
